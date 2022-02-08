@@ -48,7 +48,7 @@ ex) git checkout -b apply-feedback
 
 - [ ] 음수 여부 체크
 - [ ] 문자열 길이 체크
-  - [ ] 빈 값이면 return 0
+  - [x] 빈 값이면 return 0
   - [ ] 한 자리 숫자면 return 숫자
 - [ ] 구분자 구분 체크
   - [ ] 쉼표 구분자
